@@ -15,4 +15,8 @@
 
 The murder location was the stockroom on the market
 
+the Clockmaker was found
+
+I found Wooden Box and Steel Ruler
+
 Location of the crime is still unknown - the room must have been empty when it happened...
