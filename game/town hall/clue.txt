@@ -1,0 +1,5 @@
+Investigation Update:
+
+Through the window, you spot movement in the direction of the offices.
+
+Remember: Use 'cd "offices"' to follow this lead.
