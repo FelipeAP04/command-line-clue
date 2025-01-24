@@ -73,7 +73,7 @@ class MysteryGame:
     ]
 
     self.students = [
-      "Ludwing"
+      "Ludwing", "Felipe"
     ]
 
     # All possible objects that might be found
