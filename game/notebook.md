@@ -3,10 +3,10 @@
 ## Suspects
 - [ ] The Chef
 - [ ] The Doctor
-- [ ] The Mayor
+- [X] The Mayor
 
 ## Weapons
-- [ ] Heavy Book
+- [X] Heavy Book
 - [ ] Brass Bell
 - [X] Bronze Trophy
 
@@ -19,4 +19,4 @@ the Clockmaker was found
 
 I found Wooden Box and Steel Ruler
 
-Location of the crime is still unknown - the room must have been empty when it happened...
+I found the magnifying glass
