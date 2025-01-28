@@ -1,7 +1,7 @@
 # Detective's Notebook
 
 ## Suspects
-- [ ] The Chef
+- [X] The Chef
 - [ ] The Doctor
 - [X] The Mayor
 
